@@ -1,0 +1,27 @@
+{
+  "name": "data-format-convertor",
+  "version": "1.0.0",
+  "description": "a packege that converts between different data formats,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandukharat/data-format-convertor.git"
+  },
+  "keywords": [
+    "data",
+    "format",
+    "convertor"
+  ],
+  "author": "Chandu Vijay Kharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandukharat/data-format-convertor/issues"
+  },
+  "homepage": "https://github.com/Chandukharat/data-format-convertor#readme",
+  "dependencies": {
+    "data-format-convertor": "^1.0.0"
+  }
+}
